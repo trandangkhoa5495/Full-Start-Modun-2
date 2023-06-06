@@ -1,0 +1,23 @@
+.cardcomponent1 {
+  padding: 10px;
+  background-color: white;
+  display: flex;
+  gap: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px;
+  position: relative;
+}
+.cardcomponent1 img {
+  width: 100px;
+  height: 100px;
+}
+.btncard {
+  border: none;
+  background-color: rgba(216, 191, 216, 0);
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+.cardcomponent3 p {
+  margin: 0;
+}

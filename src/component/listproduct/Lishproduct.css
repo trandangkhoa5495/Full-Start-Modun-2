@@ -1,0 +1,8 @@
+.cardcomponent {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 10px 50px;
+  margin-top: 50px;
+}
